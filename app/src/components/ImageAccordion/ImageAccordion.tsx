@@ -18,7 +18,7 @@ export const ImageAccordion: React.FC<ImageAccordionProps> = ({
 }) => {
 
   return (
-    <div className={` ${styles} relative `} {...rest}>
+    <div className={` ${styles} w-[1080px] h-[250px] flex overflow-hidden my-[50px] mx-auto `} {...rest}>
       {React.Children.map(children, (child: React.ReactElement) => {
         if (React.isValidElement(child) && (child.type === ImageAccordionItem)) {
           return child;
