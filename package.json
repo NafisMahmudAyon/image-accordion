@@ -42,12 +42,14 @@
     "url": "git+https://github.com/NafisMahmudAyon/image-accordion.git"
   },
   "keywords": [
-    "ui",
-    "landing page",
-    "Landing Page",
-    "Landing Page UI",
-    "landing page UI",
-    "UI"
+    "image accordion",
+    "Image Accordion",
+    "react image accordion",
+    "React Image Accordion",
+    "Advanced image accordion",
+    "advanced Image Accordion",
+    "UI",
+    "landing page ui"
   ],
   "author": "Nafis Mahmud Ayon <nafismahmudayon@gmail.com>",
   "license": "MIT",
